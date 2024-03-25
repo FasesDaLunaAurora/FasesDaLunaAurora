@@ -8,9 +8,9 @@
 
 ##
 <div align="center">
-  <a href="https://github.com/LucieneGaru">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LucieneGaru&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucieneGaru&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/FasesDaLunaAurora">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FasesDaLunaAurora&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FasesDaLunaAurora&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 #
