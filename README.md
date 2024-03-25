@@ -1,7 +1,7 @@
-### Olá, eu sou a Garu!
+### Olá, eu sou a Luna!
 
 - 🔭 Atualmente trabalho com LUA
-- 🌱 Estou estudando JAVA
+- 🌱 Estou estudando Phyton
 - 💬 Pergunte-me sobre URAs e ChatBots
 - 😄 Pronomes: ela/dela
 - ⚡ Fato divertido: Cosplayer nas horas vagas
@@ -27,8 +27,8 @@
 
 #
 <div align="center">
-  <a href="https://www.linkedin.com/in/luciene-reinhardt-313610175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  	<a href=luciene.garu@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luna-aurora-reinhardt-313610175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  	<a href=fasesdaluna.aurora@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    
 
 
