@@ -4,7 +4,7 @@
 - 🌱 Estou estudando Python
 - 💬 Pergunte-me sobre ChatBots
 - 😄 Pronomes: ela/dela
-- ⚡ Fato divertido: Já criei um personagem 
+- ⚡ Fato divertido: Conheça meus babybots no character.ia [clicando aqui](https://character.ai/profile/FasesDaLunaAurora)
 
 ##
 <div align="center">
