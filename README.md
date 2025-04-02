@@ -1,10 +1,10 @@
 ### Olá, eu sou a Luna!
 
 - 🔭 Atualmente trabalho com LUA
-- 🌱 Estou estudando NodeRed
-- 💬 Pergunte-me sobre URAs e ChatBots
+- 🌱 Estou estudando Python
+- 💬 Pergunte-me sobre ChatBots
 - 😄 Pronomes: ela/dela
-- ⚡ Fato divertido: Cosplayer nas horas vagas
+- ⚡ Fato divertido: Já criei um personagem 
 
 ##
 <div align="center">
