@@ -36,8 +36,10 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/FasesDaLunaAurora/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/FasesDaLunaAurora/count.svg?" height="50"/>
 </div>
+
+<br>
 
 ###
 
@@ -47,6 +49,8 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
+
+<br>
 
 ###
 
@@ -77,6 +81,7 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
   <img width="12" />
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="50" alt="putty logo"  />
