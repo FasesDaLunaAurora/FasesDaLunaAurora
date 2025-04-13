@@ -1,14 +1,14 @@
-<h2 align="center">Olá 👋! Olá, eu sou a Luna!</h2>
+<p align="center"><i>Desenvolvedora Back-end | Graduada em Análise e Desenvolvimento de Sistemas</i></p>
 
-###
+---
 
-<p align="center">- 🔭 Atualmente trabalho com LUA
-- 🌱 Estou estudando Python
-- 💬 Pergunte-me sobre ChatBot
-- 😄 Pronomes: ela/dela
-- ⚡ Fato divertido: Conheça meus babybots no character.ia [clicando aqui](https://character.ai/profile/FasesDaLunaAurora)</p>
+## 🌟 Sobre Mim
 
-###
+<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+
+Eu sou a **Luna**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Engenharia de Software** e aplico meus conhecimentos em projetos Full Stack que unem teoria, prática e propósito.
+
+Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
 
 <div align="center">
   <img height="185" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
