@@ -6,48 +6,46 @@
 ## 🌟 Sobre Mim
 
 
-
-<img align="right" height="145" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
 
 <div align="left" >
   
-Eu sou a **Luna**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente estou estudando **Phyton**, voltado para manipulação de IAs e aplicando meus conhecimentos em projetos 
-<br>
+Eu sou a **Luna**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente estou estudando **Phyton**, voltado para manipulação de IAs e aplicando meus conhecimentos em projetos
 que unem teoria, prática e propósito.
 
-Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
-
-</div>
+Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis 
 <br>
+e me façam crescer como profissional e pessoa. 🤝✨
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FasesDaLunaAurora&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FasesDaLunaAurora&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=FasesDaLunaAurora&locale=en&mode=weekly&theme=jolly&hide_border=false&border_radius=6" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/FasesDaLunaAurora/count.svg?" height="50"/>
-</div>
-
-<br>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FasesDaLunaAurora&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="137" alt="stats graph"  />
+ <img src="https://streak-stats.demolab.com?user=FasesDaLunaAurora&locale=en&mode=weekly&theme=jolly&hide_border=false&border_radius=6" height="137" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FasesDaLunaAurora&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=jolly&hide_border=false" height="137" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FasesDaLunaAurora&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=jolly&hide_border=false" height="137" alt="languages graph"  />
+</div>
+<br clear="both">
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FasesDaLunaAurora/count.svg?" height="50"/>
 </div>
 
 <br>
@@ -98,5 +96,6 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 <img src="https://raw.githubusercontent.com/FasesDaLunaAurora/FasesDaLunaAurora/output/snake.svg" alt="Snake animation" />
 
 ###
+ 
  
 
