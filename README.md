@@ -9,11 +9,15 @@
 
 <img align="right" height="145" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
 
-
-Eu sou a **Luna**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente estou estudando **Phyton**, voltado para manipulação de IAs e aplicando meus conhecimentos em projetos que unem teoria, prática e propósito.
+<div align="left" >
+  
+Eu sou a **Luna**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente estou estudando **Phyton**, voltado para manipulação de IAs e aplicando meus conhecimentos em projetos 
+<br>
+que unem teoria, prática e propósito.
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
 
+</div>
 <br>
 
 <div align="center">
