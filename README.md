@@ -1,14 +1,20 @@
+<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
 <p align="center"><i>Desenvolvedora Back-end | Graduada em Análise e Desenvolvimento de Sistemas</i></p>
 
 ---
 
 ## 🌟 Sobre Mim
 
-<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
 
-Eu sou a **Luna**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente curso **Engenharia de Software** e aplico meus conhecimentos em projetos Full Stack que unem teoria, prática e propósito.
+
+<img align="right" height="145" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
+
+
+Eu sou a **Luna**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente estou estudando **Phyton**, voltado para manipulação de IAs e aplicando meus conhecimentos em projetos que unem teoria, prática e propósito.
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FasesDaLunaAurora&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
