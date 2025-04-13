@@ -11,13 +11,12 @@ Eu sou a **Luna**, desenvolvedora entusiasta por tecnologia e aprendizado contí
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
 
 <div align="center">
-  <img height="185" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FasesDaLunaAurora&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FasesDaLunaAurora&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FasesDaLunaAurora&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=FasesDaLunaAurora&locale=en&mode=weekly&theme=jolly&hide_border=false&border_radius=6" height="150" alt="streak graph"  />
 </div>
