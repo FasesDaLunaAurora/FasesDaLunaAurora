@@ -80,6 +80,27 @@ e me façam crescer como profissional e pessoa. 🤝✨
 <img src="https://raw.githubusercontent.com/FasesDaLunaAurora/FasesDaLunaAurora/output/snake.svg" alt="Snake animation" />
 
 ###
+
+---
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="230" align="right">
+
+<div align="left" >
+  
+> _"Nada na vida deve ser temido, apenas compreendido. Agora é hora de compreender mais, para que possamos temer menos."_ 🧠
+> <br><br>
+> — **Marie Curie**
+> <br><br>
+
+</div>
+
+---
+
+<div align="center">
+  <img align="middle" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="550" alt="Imagem em desenho de uma mulher e um gato em cima de um notebook" />
+</div>
+<br>
+<p align="center"><i>Obrigada pela visita! ❤️</i></p>
  
  
 
