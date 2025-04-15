@@ -20,16 +20,13 @@ e me façam crescer como profissional e pessoa. 🤝✨
 </div>
 
 <div align="left">
-  <a href="https://portfolio-2-swart-tau.vercel.app/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://portfolio-2-swart-tau.vercel.app/">
+  <a href="mailto:fasesdaluna.aurora@gmail.com?subject=Conectando+com+Luna+Aurora+%E2%80%93+Vamos+Conversar!&body=Ol%C3%A1,+Luna!++Encontrei+seu+contato+atrav%C3%A9s+das+suas+redes+sociais+e+gostaria+de+conversar.">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://portfolio-2-swart-tau.vercel.app/">
+  <a href="https://www.linkedin.com/in/luna-aurora-reinhardt-313610175/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://portfolio-2-swart-tau.vercel.app/">
+  <a href="https://wa.me/5548998489722">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
