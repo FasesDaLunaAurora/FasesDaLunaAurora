@@ -36,22 +36,6 @@ e me façam crescer como profissional e pessoa. 🤝✨
 
 ###
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=FasesDaLunaAurora&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=jolly&hide_border=false" height="137" alt="languages graph"  />
-</div>
-<br clear="both">
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/FasesDaLunaAurora/count.svg?" height="50"/>
-</div>
-
-<br>
-
-###
-
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"  />
 
 ###
