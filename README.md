@@ -16,6 +16,7 @@ que unem teoria, prática e propósito.
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis 
 <br>
 e me façam crescer como profissional e pessoa. 🤝✨
+<br>
 
 </div>
 
