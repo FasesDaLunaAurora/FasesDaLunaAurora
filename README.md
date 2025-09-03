@@ -1,4 +1,4 @@
-<h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+<h1 align="center"> 👩‍💻 Boas vindas ao meu GitHub! </h1> 
 <p align="center"><i>Desenvolvedora Back-end | Graduada em Análise e Desenvolvimento de Sistemas</i></p>
 
 ---
