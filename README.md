@@ -10,12 +10,10 @@
 
 <div align="left" >
   
-Eu sou a **Luna**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente estou estudando **Phyton**, voltado para manipulação de IAs e aplicando meus conhecimentos em projetos
-que unem teoria, prática e propósito.
+Eu sou a **Luna**, desenvolvedora apaixonada por tecnologia, sempre em aprendizado. Oficialmente estou estudando Phyton e Machine Learning, e aplicando meus conhecimentos em projetos
+que unem teoria, prática e propósito, mas também tenho me aventurado em alguns desafios com front.
 
-Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis 
-<br>
-e me façam crescer como profissional e pessoa. 🤝✨
+Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
 <br><br>
 
 </div>
