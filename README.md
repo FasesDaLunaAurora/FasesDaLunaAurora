@@ -38,7 +38,7 @@ Estou sempre em busca de experiências que me desafiem, me conectem com pessoas 
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=FasesDaLunaAurora&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="137" alt="stats graph"  />
+ 
   
  <img src="https://streak-stats.demolab.com?user=FasesDaLunaAurora&locale=en&mode=weekly&theme=jolly&hide_border=false&border_radius=6" height="137" alt="streak graph"  />
  
