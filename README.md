@@ -14,6 +14,8 @@ Eu sou a **Luna**, desenvolvedora apaixonada por tecnologia, sempre em aprendiza
 que unem teoria, prática e propósito, mas também tenho me aventurado em alguns desafios com front.
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa. 🤝✨
+
+Uma curiosidade sobre mim é que amo a mitologia greco-romana e a uso como fonte de inspiração para construção de muitos dos meus projetos pessoais. 💘
 <br><br>
 
 </div>
