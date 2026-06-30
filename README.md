@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Luna Aurora
 
-<p align="center">
-  <strong>Desenvolvedora Back-end • Python • Node.js • Machine Learning</strong><br>
+<p align="left">
+  <strong>Desenvolvedora Back-end • Python • Node.js • Machine Learning</strong><br><br>
   Transformando ideias em software útil.
 </p>
 
