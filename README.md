@@ -40,6 +40,11 @@ Aplicação para organização de notas digitais com foco em produtividade e exp
 
 **Stack:** Python • Django • PostgreSQL
 
+### 🔐 Auth Service
+
+Microsserviço de autenticação e autorização, desacoplado de qualquer aplicação, com JWT (access + refresh com rotação), RBAC completo, MFA via TOTP e auditoria de segurança — pronto para produção.
+**Stack:** Python • FastAPI • PostgreSQL • Redis
+
 ---
 
 ## 💻 Tecnologias
