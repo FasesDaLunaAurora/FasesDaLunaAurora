@@ -14,6 +14,7 @@
 * ⚙️ Construindo APIs e aplicações web
 * 🤖 Estudando Machine Learning e Inteligência Artificial
 * 🎓 Graduanda em Licenciatura em Física
+* 📐 Pós-graduanda em Arquitetura de Software
 * 🏆 Participando de hackathons e desenvolvendo projetos próprios
 
 ---
@@ -26,7 +27,7 @@ Sou desenvolvedora back-end com foco na construção de aplicações escaláveis
 
 Gosto de transformar problemas reais em soluções práticas, participando desde a arquitetura até a implementação dos projetos. Também exploro áreas como automação, Machine Learning e desenvolvimento full stack quando o projeto exige.
 
-Além da tecnologia, retomei minha graduação em **Licenciatura em Física**, unindo duas áreas que compartilham algo em comum: resolver problemas através da lógica, curiosidade e aprendizado contínuo.
+Além da tecnologia, retomei minha graduação em **Licenciatura em Física** e faço uma pós em **Arquitetura de Software** em paralelo, duas áreas que, na prática, compartilham a mesma base: resolver problema real através de lógica, estrutura e aprendizado contínuo.
 
 Uma curiosidade pessoal: a mitologia greco-romana inspira muitos dos nomes e conceitos presentes nos meus projetos pessoais.
 
@@ -34,13 +35,22 @@ Uma curiosidade pessoal: a mitologia greco-romana inspira muitos dos nomes e con
 
 ## 🌟 Projetos em destaque
 
-### 📌 StickyDesk
+### 🧺 [Matrona](https://github.com/FasesDaLunaAurora/Matrona)
+
+Sistema de gestão para ateliê de cestas personalizadas, em produção, catálogo
+com custo calculado em cascata (material → componente → kit), pedidos com
+frete por distância e desconto, dashboard financeiro. Deploy próprio com
+Docker Compose e HTTPS automático via Caddy.
+
+**Stack:** Python • FastAPI • PostgreSQL • React • Docker
+
+### 📌 [StickyDesk](https://github.com/FasesDaLunaAurora/StickyDesk)
 
 Aplicação para organização de notas digitais com foco em produtividade e experiência do usuário.
 
 **Stack:** Python • Django • PostgreSQL
 
-### 🔐 Auth Service
+### 🔐 [Auth Service](https://github.com/FasesDaLunaAurora/auth-service)
 
 Microsserviço de autenticação e autorização independente para reutilização em projetos acadêmicos ou profissionais, aberto para a comunidade.
 
